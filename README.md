@@ -20,14 +20,15 @@ Users should be able to:
 
 - See hover states for interactive elements
 
-### Screenshot
+### Screenshots
 
-![](./screenshot.jpg)
+![](./screenshots/order-summary-desktop-view.png)
+![](./screenshots/order-summary-mobile-view.png)
 
 ### Links
 
-- Solution URL: [Solution URL](https://your-solution-url.com)
-- Live Site URL: [Live Site URL](https://your-live-site-url.com)
+- Solution URL: [Solution URL](https://www.frontendmentor.io/solutions/order-summary-component-using-flexbox-CAZdEbfXtQ)
+- Live Site URL: [Live Site URL](https://dashaunn.github.io/FEM-order-summary-component-main/)
 
 ## My process
 
